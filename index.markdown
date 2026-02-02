@@ -6,4 +6,4 @@ layout: page
 title: home
 ---
 
-This is the homepage.
+This is the homepage. Edit.
