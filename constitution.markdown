@@ -6,7 +6,7 @@ permalink: /constitution/
 
 <!--  ![](https://dzvigelsky.github.io/files/MSGS_constitution_banner.jpg =7000x) -->
 
-<img src="https://mcmastermsgs.github.io/files/MSGS_constitution_banner.jpg" width="800" />
+<img src="https://mcmastermsgs.github.io/files/MSGS_constitution_banner.jpg" width="800px" />
 
 Below 
 (and [here](https://github.com/mcmastermsgs/mcmastermsgs.github.io/blob/main/files/MSGS_Constitution.pdf)),
