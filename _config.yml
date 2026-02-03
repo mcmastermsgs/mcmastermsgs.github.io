@@ -29,8 +29,7 @@ github_username:  msgs
 
 # Build settings
 theme: minima
-minima:
-  nav_pages:
+header_pages:
     - index.markdown
     - constitution.markdown
     - events.md
