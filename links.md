@@ -20,7 +20,7 @@ permalink: /links/
 [Department Computing Resources (with funding model for new technology)](https://math.mcmaster.ca/contact/computing-resources/) \
 [Seminars & Colloquia](https://www.math.mcmaster.ca/news-events/seminars-colloquia.html) 
 -->
-||
+| |
 |---|
 | [Department of Mathematics & Statistics at McMaster](http://www.math.mcmaster.ca) |
 | [Science Graduate Student Association (SciGSA)](https://science.mcmaster.ca/graduate/scigsa) |
