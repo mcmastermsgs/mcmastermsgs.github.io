@@ -9,7 +9,7 @@ permalink: /links/
 [Department of Mathematics & Statistics at McMaster](http://www.math.mcmaster.ca) \
 [Science Graduate Student Association (SciGSA)](https://science.mcmaster.ca/graduate/scigsa) \
 [McMaster University Chapter of SIAM](http://siam.mcmaster.ca/) \
-[McMaster University Women in Mathematics](https://mwm.mcmaster.ca/) \
+[Association for Women in Mathematics (AWM)](https://awm-math.org/) \
 [McMaster Graduate Student Association (GSA)](https://gsa.mcmaster.ca/) \
 [CUPE 3906 Union Website](https://cupe3906.org/) \
 [McMaster Thesis Template](https://www.overleaf.com/latex/templates/mcmaster-thesis-example/bjccppctqwgt) \
