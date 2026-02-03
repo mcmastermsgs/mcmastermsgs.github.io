@@ -33,4 +33,4 @@ permalink: /links/
 | [Math & Stats Computing Resources Wiki](https://researchcomputing.mcmaster.ca/documentation/math-stats) |
 | [Installing Department Printers](https://researchcomputing.mcmaster.ca/documentation/math-stats/printing-scanning/adding-printer-windows) |
 | [Department Computing Resources (with funding model for new technology)](https://math.mcmaster.ca/contact/computing-resources/) |
-| [Seminars & Colloquia](https://www.math.mcmaster.ca/news-event)
+| [Seminars & Colloquia](https://www.math.mcmaster.ca/news-event) |
