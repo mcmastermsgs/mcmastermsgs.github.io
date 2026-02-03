@@ -8,7 +8,6 @@ permalink: /contact/
 
 ### Individual council member contact information: 
 
-<pre>
 **External Coordinator:** Jeffrey Marshall-Milne,   Email: <marshj16@mcmaster.ca>
 **Internal Coordinator:** Hyuna Seo,   Email: <seoh12@mcmaster.ca>
 **Treasurer:** Illya Kierkosz,   Email: <kierkosi@mcmaster.ca>
@@ -16,4 +15,4 @@ permalink: /contact/
 **Communications:** Runtian Zhou,   Email: <zhour81@mcmaster.ca>
 **Representative to to MaSS:** Kieran Bhaskara,   Email:<bhaskk1@mcmaster.ca>
 **Representative to the Department:** Dennis Zvigelsky,   Email: <yankovsd@mcmaster.ca>
-<pre>
+
