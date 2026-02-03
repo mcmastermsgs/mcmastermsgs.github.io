@@ -29,6 +29,13 @@ github_username:  msgs
 
 # Build settings
 theme: minima
+minima:
+  nav_pages:
+    - index.markdown
+    - constitution.markdown
+    - events.md
+    - links.md
+    - contact.md
 # theme: jekyll-theme-cayman
 plugins:
    - jekyll-feed
