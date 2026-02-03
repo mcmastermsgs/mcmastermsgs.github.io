@@ -4,9 +4,9 @@ title: Contact
 permalink: /contact/
 ---
 
-## For all inquiries please reach out to our council at **<msgs@mcmaster.ca>**!
+## Main contact: <msgs@mcmaster.ca>
 
-## Individual council member contact information can be found below: 
+## Individual council member contact information: 
 
 ### External Coordinator: Jeffrey Marshall-Milne, Email: <marshj16@mcmaster.ca>
 ### Internal Coordinator: Hyuna Seo, Email: <seoh12@mcmaster.ca>
