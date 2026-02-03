@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Homepage
+title: Home
 ---
 
 <img src="https://mcmastermsgs.github.io/files/Hamilton_Hall.jpg" width="800" />
