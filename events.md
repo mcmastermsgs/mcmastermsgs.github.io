@@ -24,7 +24,7 @@ permalink: /events/
 
 
 ---
-
+</div>
 ## 🕰 Past Events
 
 ---
