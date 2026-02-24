@@ -53,6 +53,6 @@ There will be Pizza! Come discuss any general questions, concerns, or suggestion
 
 Free pool games! Pay for your own drinks + snacks!
 
-<img src="https://mcmastermsgs.github.io/files/events/billiards.png" width="250" />
+<img src="https://mcmastermsgs.github.io/files/events/billiards.png" width="200" />
 
 ---
