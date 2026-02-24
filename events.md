@@ -15,6 +15,7 @@ permalink: /events/
 [![Past Events](https://img.shields.io/badge/Past-1%20Events-lightgrey?style=for-the-badge)](#-past-events)
 
 ---
+</div> 
 
 ## 📅 Upcoming Events
 
