@@ -12,7 +12,7 @@ permalink: /events/
 **Creating community in our department!**
 
 [![Upcoming Events](https://img.shields.io/badge/Upcoming-0%20Events-brightgreen?style=for-the-badge)](#-upcoming-events)
-[![Past Events](https://img.shields.io/badge/Past-0%20Events-lightgrey?style=for-the-badge)](#-past-events)
+[![Past Events](https://img.shields.io/badge/Past-1%20Events-lightgrey?style=for-the-badge)](#-past-events)
 
 ---
 
