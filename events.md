@@ -44,7 +44,7 @@ There will be Pizza! Come discuss any general questions, concerns, or suggestion
 **📍 Location:** Phoenix Craft House and Grill 
 
 <img src="https://mcmastermsgs.github.io/files/events/pubnite.png" width="150" />
-<br />
+<br / / />
 
 
 ### MSGS Boulevard Billiards Night!
