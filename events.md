@@ -9,7 +9,7 @@ permalink: /events/
 # 🧮 MSGS Events
 
 [![Upcoming Events](https://img.shields.io/badge/Upcoming-0%20Events-brightgreen?style=for-the-badge)](#-upcoming-events)
-[![Past Events](https://img.shields.io/badge/Past-1%20Events-lightgrey?style=for-the-badge)](#-past-events)
+[![Past Events](https://img.shields.io/badge/Past-4%20Events-lightgrey?style=for-the-badge)](#-past-events)
 
 ---
 
@@ -43,7 +43,7 @@ There will be Pizza! Come discuss any general questions, concerns, or suggestion
 **📆 Date:** Monday, October 6, 2025 · 5:00 PM 
 **📍 Location:** Phoenix Craft House and Grill 
 
-<img src="https://mcmastermsgs.github.io/files/events/pubnite.png" width="200" />
+<img src="https://mcmastermsgs.github.io/files/events/pubnite.png" width="150" />
 <br>
 
 
