@@ -41,7 +41,7 @@ There will be Pizza! Come discuss any general questions, concerns, or suggestion
 **📆 Date:** Monday, October 6, 2025 · 5:00 PM 
 **📍 Location:** Phoenix Craft House and Grill 
 
-<img src="https://mcmastermsgs.github.io/files/events/pubnite.png" width="250" />
+<img src="https://mcmastermsgs.github.io/files/events/pubnite.png" width="200" />
 
 ### MSGS Boulevard Billiards Night!
 **📆 Date:** Friday, September 13, 2024 · 7:00 PM 
