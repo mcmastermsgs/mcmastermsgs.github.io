@@ -22,9 +22,10 @@ permalink: /events/
 
 
 ---
-</div>
 
 ## 🕰 Past Events
+
+<img src="https://mcmastermsgs.github.io/files/events/boardgamesnight_winter2026" width="740" />
 
 ---
 
