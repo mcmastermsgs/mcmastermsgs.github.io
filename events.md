@@ -7,5 +7,26 @@ permalink: /events/
 <img src="https://mcmastermsgs.github.io/files/MSGS_constitution_banner.jpg" width="740" />
 
 
-lalalalalla
+# 🌳 Community Events
+
+**Bringing our neighbourhood together — one event at a time.**
+
+[![Upcoming Events](https://img.shields.io/badge/Upcoming-0%20Events-brightgreen?style=for-the-badge)](#-upcoming-events)
+[![Past Events](https://img.shields.io/badge/Past-0%20Events-lightgrey?style=for-the-badge)](#-past-events)
+
+---
+
+</div>
+
+## 📅 Upcoming Events
+
+---
+
+
+---
+
+## 🕰 Past Events
+
+---
+
 
