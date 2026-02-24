@@ -50,6 +50,9 @@ There will be Pizza! Come discuss any general questions, concerns, or suggestion
 ### MSGS Pizza and Board Games Night
 **📆 Date:** Wednesday, April 9, 2026 · 5:00 PM <br />
 **📍 Location:** Hamilton Hall
+
+
+<img src="https://mcmastermsgs.github.io/files/events/boardgamesnight_cat.jpg" width="200" />
 <br />
 
 
@@ -62,18 +65,24 @@ There will be Pizza! Come discuss any general questions, concerns, or suggestion
 ### MSGS Valentine's Pub Night
 **📆 Date:** Wednesday, February 12, 2026 · 5:00 PM <br />
 **📍 Location:** Phoenix Craft House and Grill 
+
+<img src="https://mcmastermsgs.github.io/files/events/valentines.jpg" width="200" />
 <br />
 
 
 ### MSGS End of term happy hour
 **📆 Date:** Tuesday, December 10, 2025 · 5:00 PM <br />
 **📍 Location:** Phoenix Craft House and Grill 
+
+<img src="https://mcmastermsgs.github.io/files/events/punite_yellow.jpg" width="200" />
 <br />
 
 
 ### MSGS Board Game Night 
 **📆 Date:** Wednesday, November 26, 2025 · 7:00 PM - 10:00 PM <br />
 **📍 Location:** The Bard and Bear
+
+<img src="https://mcmastermsgs.github.io/files/events/bardbear.jpg" width="200" />
 <br />
 
 
