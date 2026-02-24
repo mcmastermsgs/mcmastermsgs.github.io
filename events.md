@@ -22,15 +22,14 @@ permalink: /events/
 ## 🕰 Past Events
 
 ### 🧮 MSGS Board Games Night! 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
 <div>
 
 **📆 Date:** Monday, February 9, 2026 · 6:30 PM – 9:30 PM  
 **📍 Location:** Hamilton Hall
 
 </div>
-<img src="https://mcmastermsgs.github.io/files/events/boardgamesnight_winter2026.png" width="250" style="margin-left: auto;" />
+<img src="https://mcmastermsgs.github.io/files/events/boardgamesnight_winter2026.png" width="250" />
 </div>
-
 
 ---
