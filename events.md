@@ -16,8 +16,6 @@ permalink: /events/
 
 ---
 
-</div>
-
 ## 📅 Upcoming Events
 
 ---
@@ -25,6 +23,7 @@ permalink: /events/
 
 ---
 </div>
+
 ## 🕰 Past Events
 
 ---
