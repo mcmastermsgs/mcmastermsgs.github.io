@@ -9,7 +9,7 @@ permalink: /events/
 # 🧮 MSGS Events
 
 [![Upcoming Events](https://img.shields.io/badge/Upcoming-0%20Events-brightgreen?style=for-the-badge)](#-upcoming-events)
-[![Past Events](https://img.shields.io/badge/Past-4%20Events-lightgrey?style=for-the-badge)](#-past-events)
+[![Past Events](https://img.shields.io/badge/Past-9%20Events-lightgrey?style=for-the-badge)](#-past-events)
 
 ---
 
@@ -44,6 +44,36 @@ There will be Pizza! Come discuss any general questions, concerns, or suggestion
 **📍 Location:** Phoenix Craft House and Grill 
 
 <img src="https://mcmastermsgs.github.io/files/events/pubnite.png" width="150" />
+<br />
+
+
+### MSGS Pizza and Board Games Night
+**📆 Date:** Wednesday, April 9, 2026 · 5:00 PM <br />
+**📍 Location:** Hamilton Hall
+<br />
+
+
+### MSGS Pub Happy Hour
+**📆 Date:** Wednesday, March 5, 2026 · 5:00 PM <br />
+**📍 Location:** Phoenix Craft House and Grill 
+<br />
+
+
+### MSGS Valentine's Pub Night
+**📆 Date:** Wednesday, February 12, 2026 · 5:00 PM <br />
+**📍 Location:** Phoenix Craft House and Grill 
+<br />
+
+
+### MSGS End of term happy hour
+**📆 Date:** Tuesday, December 10, 2025 · 5:00 PM <br />
+**📍 Location:** Phoenix Craft House and Grill 
+<br />
+
+
+### MSGS Board Game Night 
+**📆 Date:** Wednesday, November 26, 2025 · 7:00 PM - 10:00 PM <br />
+**📍 Location:** The Bard and Bear
 <br />
 
 
