@@ -52,7 +52,7 @@ There will be Pizza! Come discuss any general questions, concerns, or suggestion
 **📍 Location:** Hamilton Hall
 
 
-<img src="https://mcmastermsgs.github.io/files/events/boardgamesnight_cat.jpg" width="200" />
+<img src="https://mcmastermsgs.github.io/files/events/boardgamenight_cat.jpg" width="200" />
 <br />
 
 
@@ -74,7 +74,7 @@ There will be Pizza! Come discuss any general questions, concerns, or suggestion
 **📆 Date:** Tuesday, December 10, 2025 · 5:00 PM <br />
 **📍 Location:** Phoenix Craft House and Grill 
 
-<img src="https://mcmastermsgs.github.io/files/events/punite_yellow.jpg" width="200" />
+<img src="https://mcmastermsgs.github.io/files/events/pubnite_yellow.jpg" width="200" />
 <br />
 
 
