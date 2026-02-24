@@ -26,6 +26,7 @@ permalink: /events/
 **📍 Location:** Hamilton Hall
 
 <img src="https://mcmastermsgs.github.io/files/events/boardgamesnight_winter2026.png" width="250" />
+<br>
 
 
 ### MSGS AGM, pizza & board games!
@@ -35,6 +36,7 @@ permalink: /events/
 There will be Pizza! Come discuss any general questions, concerns, or suggestions/ideas related to the Math & Stats Graduate Society (including constitutional edits/procedures) at the Annual General Meeting! Cowabunga pizza will be provided during the meeting. Following the meeting, there will be a board games night in HH! If you have any fun board games you want to bring, please do! The more, the better :) All are welcome, including post-docs!   
 
 <img src="https://mcmastermsgs.github.io/files/events/pizza.png" width="250" />
+<br>
 
 
 ### MSGS Annual Fall Pub Night!
@@ -42,6 +44,8 @@ There will be Pizza! Come discuss any general questions, concerns, or suggestion
 **📍 Location:** Phoenix Craft House and Grill 
 
 <img src="https://mcmastermsgs.github.io/files/events/pubnite.png" width="200" />
+<br>
+
 
 ### MSGS Boulevard Billiards Night!
 **📆 Date:** Friday, September 13, 2024 · 7:00 PM 
