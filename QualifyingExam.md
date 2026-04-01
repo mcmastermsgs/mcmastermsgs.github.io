@@ -11,7 +11,9 @@ permalink: /qualifyingexam/
 The Math & Stats department has a page on their website, linked below, on the Graduate Handbook. The bottom of section 6 in the handbook outlines the comprehensive exam (qualifying exam + oral exam) that Ph.D students in both Mathematics and Statistics are expected to pass in order to be considered a Ph.D candidate. A database of all previous qualifying exams is also included.
 
 [Graduate Stedent Handbook](https://math.mcmaster.ca/graduate/graduate-student-handbook/)
+
 [Ph.D Comprehensive Examinations](https://math.mcmaster.ca/graduate/application-procedure/ph-d-comprehensive-examinations/)
+
 [Stats Ph.D Comprehensive Examinations](https://math.mcmaster.ca/graduate/application-procedure/statistics-ph-d-comprehensive-exams/)
 
 
