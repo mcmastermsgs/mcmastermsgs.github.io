@@ -36,6 +36,7 @@ header_pages:
     - events.md
     - links.md
     - contact.md
+    - QualifyingExam.md
 # theme: jekyll-theme-cayman
 plugins:
    - jekyll-feed
