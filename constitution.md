@@ -12,4 +12,11 @@ Below
 (and [here](https://github.com/mcmastermsgs/mcmastermsgs.github.io/blob/main/files/MSGS_Constitution.pdf)),
 you can find the MSGS Constitution which outlines the functional aspects of our organization.
 
-<object data="https://mcmastermsgs.github.io/files/MSGS_Constitution.pdf"         type="application/pdf"         width="740px"         height="740px">    <embed src="https://mcmastermsgs.github.io/files/MSGS_Constitution.pdf"            type="application/pdf"            width="740"            height="740" />    <p>This browser does not support PDFs. Please download the PDF to view it:         <a href="https://mcmastermsgs.github.io/files/MSGS_Constitution.pdf">Download PDF</a>    </p></object>
+<!-- <object data="https://mcmastermsgs.github.io/files/MSGS_Constitution.pdf"         type="application/pdf"         width="740px"         height="740px">    <embed src="https://mcmastermsgs.github.io/files/MSGS_Constitution.pdf"            type="application/pdf"            width="740"            height="740" />    <p>This browser does not support PDFs. Please download the PDF to view it:         <a href="https://mcmastermsgs.github.io/files/MSGS_Constitution.pdf">Download PDF</a>    </p></object> -->
+
+<iframe 
+  src="https://docs.google.com/gview?url=https://mcmastermsgs.github.io/files/MSGS_Constitution.pdf&embedded=true" 
+  width="740px" 
+  height="740px" 
+  frameborder="0">
+</iframe>
