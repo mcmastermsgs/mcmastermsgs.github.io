@@ -47,6 +47,4 @@ Retrieved 2026-02-03, License - CC BY-SA 4.0
 | Representative to the Department | Abuzer Abuov              | abuova@mcmaster.ca           |
 | Representative to MaSS           | Kieran Bhaskara           | kieran.bhaskara@mcmaster.ca  |
 | Treasurer                        | Dennis Y. Zvigelsky       | yankovsd@mcmaster.ca         |
-<!--| Treasurer                        | Illya Kierkosz            | kierkosi@mcmaster.ca |-->
-
 
