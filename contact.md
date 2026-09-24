@@ -38,14 +38,15 @@ Retrieved 2026-02-03, License - CC BY-SA 4.0
 
 ### Individual Contacts:
 
-| Role                             | Name                      | Contact              |   
-|----------------------------------|---------------------------|----------------------|
-| External Coordinator             | Jeffrey Marshall-Milne    | marshj16@mcmaster.ca |
-| Internal Coordinator             | Hyuna Seo                 | seoh12@mcmaster.ca   |
-| Treasurer                        | Illya Kierkosz            | kierkosi@mcmaster.ca |
-| Communications                   | Emma Coates               | coatee4@mcmaster.ca  |
-| Communications                   | Runtian Zhou              | zhour81@mcmaster.ca  |
-| Representative to MaSS           | Kieran Bhaskara           | bhaskk1@mcmaster.ca  |
-| Representative to the Department | Dennis Y. Zvigelsky       | yankovsd@mcmaster.ca |
+| Role                             | Name                      | Contact                      |   
+|----------------------------------|---------------------------|------------------------------|
+| Communications                   | Brandon Papandrea         | papandrb@mcmaster.ca         |
+| Communications                   | Jeffrey Marshall-Milne    | marshj16@mcmaster.ca         |
+| External Coordinator             | Jeffrey Marshall-Milne    | marshj16@mcmaster.ca         |
+| Internal Coordinator             | Hyuna Seo                 | seoh12@mcmaster.ca           |
+| Representative to the Department | Abuzer Abuov              | abuova@mcmaster.ca           |
+| Representative to MaSS           | Kieran Bhaskara           | kieran.bhaskara@mcmaster.ca  |
+| Treasurer                        | Dennis Y. Zvigelsky       | yankovsd@mcmaster.ca         |
+<!--| Treasurer                        | Illya Kierkosz            | kierkosi@mcmaster.ca |-->
 
 
